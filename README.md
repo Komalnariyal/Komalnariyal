@@ -1,4 +1,4 @@
-<marquee>- 👋 Hi, I’m @Komalnariyal</marquee>
+<marquee>👋 Hi, I’m Komalnariyal</marquee>
 <br>
 - 🌱 I’m currently learning Javascript and Mern Stack
   <br>
